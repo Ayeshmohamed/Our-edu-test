@@ -1,0 +1,96 @@
+{
+  "transactions":[
+    {
+      "paidAmount":280,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":1,
+      "paymentDate": "2021-11-30",
+      "parentIdentification": "d3d29d70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "paidAmount":200.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":2,
+      "paymentDate": "2018-01-01",
+      "parentIdentification": "e3rffr-1d25-dddw-8591-034165a3a613"
+
+    },
+    {
+      "paidAmount":500,
+      "Currency":"EGP",
+      "parentEmail":"parent3@parent.eu",
+      "statusCode":1,
+      "paymentDate": "2021-02-27",
+      "parentIdentification": "4erert4e-2www-wddc-8591-034165a3a613"
+
+    },
+    {
+      "paidAmount":400,
+      "Currency":"AED",
+      "parentEmail":"parent4@parent.eu",
+      "statusCode":1,
+      "paymentDate": "2022-09-07",
+      "parentIdentification": "d3dwwd70-1d25-11e3-8591-034165a3a613"
+
+    },
+    {
+      "paidAmount":200,
+      "Currency":"EUR",
+      "parentEmail":"parent5@parent.eu",
+      "statusCode":1,
+      "paymentDate": "2022-10-30",
+      "parentIdentification": "d3d29d40-1d25-11e3-8591-034165a3a6133"
+
+    },
+
+    {
+      "paidAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent6@parent.eu",
+      "statusCode":2,
+      "paymentDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "paidAmount":700,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "paymentDate": "2021-11-30",
+      "parentIdentification": "t3d29d70-1d25-11e3-8591-034166a3a613"
+
+    },
+    {
+      "paidAmount":150,
+      "Currency":"SAR",
+      "parentEmail":"parent1@parent.eu",
+      "statusCode":2,
+      "paymentDate": "2021-10-6",
+      "parentIdentification": "d3d29d70-1d66-11e3-8591-034165a3a613"
+
+    },
+
+    {
+      "paidAmount":200,
+      "Currency":"SAR",
+      "parentEmail":"parent7@parent.eu",
+      "statusCode":2,
+      "paymentDate": "2020-11-30",
+      "parentIdentification": "bf533db0-f866-4aa2-9c00-55584f63419c"
+
+    },
+    {
+      "paidAmount":100.5,
+      "Currency":"USD",
+      "parentEmail":"parent2@parent.eu",
+      "statusCode":3,
+      "paymentDate": "2018-05-01",
+      "parentIdentification": "69863004-2739-4ada-bafc-eba18e400507"
+
+    }
+  ]
+}
